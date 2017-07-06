@@ -1,20 +1,6 @@
-postgresql puppet module
+Puppet Module - puppetlabs-postgresql
 
-Copyright (C) 2012-2016 Puppet Labs, Inc.
-Copyright (C) 2012 Inkling Systems Inc
-Copyright (C) 2012-2013 Camptocamp SA.
-
-This product includes software developed by:
-  The Puppet Labs Inc (http://www.puppetlabs.com/).
-
-This product includes also software developed by:
-  Camptocamp SA (http://www.camptocamp.com/)
-
-This product includes also software developed by:
-  Inkling Systems Inc (https://www.inkling.com/)
-
-Puppet Labs can be contacted at: info@puppetlabs.com
-
+Copyright 2017 Puppet, Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
